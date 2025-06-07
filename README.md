@@ -26,6 +26,19 @@ Created a **5-page interactive dashboard** including:
 9. **Customer vs. Driver Ratings**
 
 
+## 📊 Dashboard Preview
+
+### Dashboard Page 1 – Overall
+![Page 1](Dashboard_Page_1.png)
+### Dashboard Page 2 – Vehicle Type
+![Page 2](Dashboard_Page_2.png)
+### Dashboard Page 3 – Revenue
+![Page 3](Dashboard_Page_3.png)
+### Dashboard Page 4 – Cancellation
+![Page 4](Dashboard_Page_4.png)
+### Dashboard Page 5 – Ratings
+![Page 5](Dashboard_Page_5.png)
+
 ---
 
 ## 🧮 SQL Business Questions
